@@ -1,5 +1,5 @@
-export default function thisIsFunction(){
-    return "This statement is comming from exported funcion and the identifier is thisIsFunction";
+export default function Main(){
+    return "This statement is comming from exported function Main";
 }
 export function countPrimeNumber(input){
     let isPrime = true;
