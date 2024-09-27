@@ -24,3 +24,15 @@ export const helloWorld = (param = "Hello")=>{
     }
     return value
 }
+
+const user1 = "teuku";
+const emailUser = "teuku123@gmail.com";
+const passwordUser = "123";
+
+
+const infoPlayer = new Object({
+    user1,
+    emailUser,
+    passwordUser
+})
+export {infoPlayer};
