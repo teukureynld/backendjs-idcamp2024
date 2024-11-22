@@ -41,6 +41,3 @@ function createHelloWorld(){
 }
 createHelloWorld(highOrderFunction)
 
-function createTable(){
-	
-}
