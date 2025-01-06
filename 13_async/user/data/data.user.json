@@ -1,0 +1,14 @@
+{
+    "USER1": {
+        "name": "FIzz",
+        "age": 25,
+        "email": "Fizz@gmail.com",
+        "isAlive" : true 
+    },
+    "USER2": {
+        "name": "FIzz",
+        "age": 25,
+        "email": "Fizz@gmail.com",
+        "isAlive" : false 
+    }
+}

@@ -1,9 +1,8 @@
-import { ErrorHandlingCallback } from "./module.mjs";
-
+import { ErrorHandlingCallback } from "./errorHandlingCallback.js";
 const datas = JSON.stringify([
     {
         "userName": "Teuku",
-        "age": 23,
+        "age": 2`1122   `,
         "isAlive": true
     },
     {
